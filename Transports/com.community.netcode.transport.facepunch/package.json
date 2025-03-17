@@ -1,12 +1,12 @@
 {
   "name": "com.community.netcode.transport.facepunch",
   "displayName": "Facepunch Transport for Netcode for GameObjects",
-  "version": "2.0.0-nevergames3",
+  "version": "2.0.0-nevergames4",
   "unity": "6000.0",
   "description": "Facepunch Transport for Netcode for GameObjects",
   "author": "Lothsahn (nevergames), Nico Thomas (Transport Adapter), Floris van Onna (Transport Adapter), Garry Newman (Author of Facepunch.Steamworks)",
   "dependencies": {
     "com.unity.netcode.gameobjects": "1.0.0-pre.4",
-    "com.nevergames.steamworks.facepunch": "2.3.2-nevergames3"
+    "com.nevergames.steamworks.facepunch": "2.3.2-nevergames4"
   }
 }
